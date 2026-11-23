@@ -1,0 +1,14 @@
+{
+  "mods": [
+    {
+      "id": "hola",
+      "name": "Hola Mod",
+      "version": "1.0",
+      "author": "Vos",
+      "description": "Mod de ejemplo",
+      "type": "dex",
+      "main": "com.ejemplo.HolaMod",
+      "url": "https://github.com/TU_USUARIO/TU_REPO/releases/download/mods/hola.dex"
+    }
+  ]
+}
