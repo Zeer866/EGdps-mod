@@ -1,14 +1,14 @@
 {
   "mods": [
     {
-      "id": "hola",
-      "name": "Hola Mod",
+      "id": "prismatic",
+      "name": "Prismatic Menu",
       "version": "1.0",
-      "author": "Vos",
-      "description": "Mod de ejemplo",
+      "author": "Zeer",
+      "description": "Menu de herramientas: parches, FPS, backup y mas",
       "type": "dex",
-      "main": "com.ejemplo.HolaMod",
-      "url": "https://github.com/TU_USUARIO/TU_REPO/releases/download/mods/hola.dex"
+      "main": "com.zeer.prismatic.PrismaticMod",
+      "url": "https://github.com/Zeer866/prismatic-men-/releases/download/v1.0/prismatic.dex"
     }
   ]
 }
